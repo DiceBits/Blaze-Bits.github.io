@@ -6,11 +6,11 @@ var config = {
   // - Your app's id on moneypot.com
   app_id: 823,                             // <----------------------------- EDIT ME!
   // - Displayed in the navbar
-  app_name: 'Blazin' Dice!,
+  app_name: 'Blazin Dice!',
   // - For your faucet to work, you must register your site at Recaptcha
   // - https://www.google.com/recaptcha/intro/index.html
   recaptcha_sitekey: '6Le0yhMTAAAAAFh5FYksxIQj5PG8i21H578q4Qhm',  // <----- EDIT ME!
-  redirect_uri: 'https://dicebits-blazebits.github.io',
+  redirect_uri: 'http://dicebits/blaze.github.io',
   mp_browser_uri: 'https://www.moneypot.com',
   mp_api_uri: 'https://api.moneypot.com',
   chat_uri: '//socket.moneypot.com',
